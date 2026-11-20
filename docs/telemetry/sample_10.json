@@ -1,0 +1,7 @@
+{
+  "metric_id": 10,
+  "ttft_ms": 45,
+  "tps": 40.0,
+  "burstiness": 0.05,
+  "status": "VERIFIED"
+}
